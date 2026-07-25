@@ -1,23 +1,60 @@
 aid: cyneta-networks
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/cyneta-networks.png
 name: Cyneta Networks
-description: Cyneta Networks is a company surfaced as a portfolio company of battery-ventures and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: 'Cyneta Networks, Inc. was a wireless data networking equipment company
+  founded around 2000 and headquartered in Plano, Texas, with an additional presence
+  in Cockeysville, Maryland. Backed by Battery Ventures, it developed intelligent
+  hardware and software for wireless data networks — packet control, network element
+  management, and network monitoring / service-quality optimization for mobile
+  operator core networks — and accumulated a patent portfolio in wireless and core
+  network monitoring. The company is a dot-com-era venture that no longer maintains
+  an active public web presence: its former domain, cyneta.com, no longer serves a
+  Cyneta site and its DNS is now operated by an unrelated party. Enrichment probes
+  in July 2026 found no live developer portal, documentation, GitHub organization,
+  package-registry libraries, or any API surface. This profile is retained as a
+  historical portfolio record; there is nothing to catalog on the API supply side.'
 url: https://raw.githubusercontent.com/api-evangelist/cyneta-networks/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - battery-ventures
 x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier-reason: no-api-surface
+x-status: dormant
+x-status-note: 'No active public web presence found as of 2026-07-20; former domain
+  cyneta.com no longer resolves to a Cyneta Networks site (Google-hosted DNS, GoDaddy
+  parking A record, no HTTPS listener). Last known live site archived 2002-09-21.'
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Networking
+- Wireless
+- Telecommunications
+- Network Infrastructure
+- Network Monitoring
+- Historical
 apis: []
+common: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 0
+  pass: local-v1
