@@ -35,7 +35,7 @@ x-status: dormant
 x-status-note: 'No active public web presence found as of 2026-07-20; former domain
   cyneta.com no longer resolves to a Cyneta Networks site (Google-hosted DNS, GoDaddy
   parking A record, no HTTPS listener). Last known live site archived 2002-09-21.'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
