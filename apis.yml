@@ -42,7 +42,7 @@ x-backed-by:
 - battery-ventures
 x-tier: stub
 x-tier-reason: no-api-surface
-x-status: dormant
+x-status: defunct
 x-status-note: 'No active public web presence found as of 2026-07-20; former domain
   cyneta.com no longer resolves to a Cyneta Networks site (Google-hosted DNS, GoDaddy
   parking A record, no HTTPS listener). Last known live site archived 2002-09-21.'
