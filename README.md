@@ -64,12 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Cyneta Networks, Inc. was a wireless data networking equipment company founded around 2000 and headquartered in Plano, Texas, with an additional presence in Cockeysville, Maryland. Backed by Battery Ventures, it developed intelligent hardware and software for wireless data networks — packet control, network element management, and network monitoring / service-quality optimization for mobile operator core networks.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-The company is a dot-com-era venture that no longer maintains an active public web presence. Its former domain, cyneta.com, no longer serves a Cyneta site and its DNS is now operated by an unrelated party. The last known live snapshot of the site dates to 2002.
+Cyneta Networks, Inc. was a wireless data networking equipment company founded around 2000 and headquartered in Plano, Texas, with an additional presence in Cockeysville, Maryland. Backed by Battery Ventures, it developed intelligent hardware and software for wireless data networks — packet control, network element management, and network monitoring / service-quality optimization for mobile operator core networks — and accumulated a patent portfolio in wireless and core network monitoring. The company is a dot-com-era venture that no longer maintains an active public web presence: its former domain, cyneta.com, no longer serves a Cyneta site and its DNS is now operated by an unrelated party. Enrichment probes in July 2026 found no live developer portal, documentation, GitHub organization, package-registry libraries, or any API surface. This profile is retained as a historical portfolio record; there is nothing to catalog on the API supply side.
 
-## API surface
+**Areas:** Company · Networking · Wireless · Telecommunications · Network Infrastructure · Network Monitoring · Historical · Defunct
 
-None. Enrichment probes in July 2026 found no developer portal, documentation, API reference, GitHub organization, package-registry client libraries, `/.well-known/` discovery documents, or any other API artifacts.
+## Cyneta Networks on APIs.io (historical record)
 
-Backed by: battery-ventures
+Everything profiled for Cyneta Networks is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/cyneta-networks/](https://apis.io/providers/cyneta-networks/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Cyneta Networks: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/cyneta-networks/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
